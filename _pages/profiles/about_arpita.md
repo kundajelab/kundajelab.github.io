@@ -1,4 +1,5 @@
 ### Arpita Singhal
+
 **Role:** PhD Student  
 **Department:** Computer Science  
 **Co-Advisor:** Maya Kasowski  

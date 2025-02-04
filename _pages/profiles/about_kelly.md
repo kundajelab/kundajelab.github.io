@@ -1,3 +1,4 @@
 ### Kelly Cochran
+
 **Role:** PhD Student  
-**Department:** Computer Science  
+**Department:** Computer Science

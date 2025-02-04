@@ -42,14 +42,14 @@ profiles:
     image: lei.webp
     content: profiles/about_lei.md
   - align: left
-    image: riya.webp 
+    image: riya.webp
     content: profiles/about_riya.md
   - align: left
-    image: vivek.webp  
+    image: vivek.webp
     content: profiles/about_vivek.md
   - align: left
-    image: lily.webp   
-    content: profiles/about_lily.md 
+    image: lily.webp
+    content: profiles/about_lily.md
   - align: left
     image: eran.webp
     content: profiles/about_eran.md

@@ -1,3 +1,4 @@
 ### Vivian Hecht
-**Role:** Senior Staff Scientist    
-**Department:** Genetics  
+
+**Role:** Senior Staff Scientist  
+**Department:** Genetics

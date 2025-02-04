@@ -1,3 +1,3 @@
 ### Eran Kotler
-**Role:** Postdoctoral Scholar  
 
+**Role:** Postdoctoral Scholar
