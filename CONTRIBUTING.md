@@ -26,7 +26,7 @@ I recommend setting this up as it is very helpful if you want to quicklu test ou
 4. Commit changes and push to **your branch**.
 5. Open a pull request to the main branch of the repo.
 6. **Be sure that all PR checks pass**. Once that is done, merge the PR.
-    - You may find that the "Prettier" check often fails. For this, I highly recommend installing **prettier** locally and running `prettier --write .` in the root of the repo. This will automatically format all files in the repo, and you can then commit and push those changes.
+   - You may find that the "Prettier" check often fails. For this, I highly recommend installing **prettier** locally and running `prettier --write .` in the root of the repo. This will automatically format all files in the repo, and you can then commit and push those changes.
 7. The deployment GitHub action is automatically triggered upon push to main and your changes will be live on the website once the action finishes running successfully.
 
 # Adding a new profile
