@@ -14,6 +14,11 @@ nav_order: 2
 
 <div class="publications">
 
+Selected manuscripts. For a complete list, see <a href="https://scholar.google.com/citations?user=T2vp1pgAAAAJ&hl=en&oi=sra">Google Scholar</a>.
+<br>
+<br>
+[* / †] indicates co-[first / corresponding] authorship. Current/Former lab members are highlighted.
+
 {% bibliography %}
 
 </div>

@@ -32,5 +32,34 @@ layout: page
         </div>
       {% endfor %}
     {% endif %}
+
+    {% if page.alumni %}
+      <hr>
+      <h2>
+        Alumni
+      </h2>
+      {% comment %} {% for alum in page.alumni %}
+        <div class="more-info">{{ profile.name }}</div>
+      {% endfor %} {% endcomment %}
+      <table style="width: 100%; border-collapse: collapse;">
+        <tbody>
+          {% for alum in page.alumni %}
+            <tr>
+              <td style="padding: 10px; vertical-align: middle;">
+                <strong>{{ alum.name }}</strong><br>
+                <em>
+                  <b>Website</b>: {{ alum.website }}<br>
+                  Email: {{ alum.first_position }}
+                </em>
+              </td>
+              {% comment %} <td style="padding: 10px; vertical-align: middle;">
+                <strong>{{ alum.name }}</strong><br>
+                <span>{{ alum.link }}</span>
+              </td> {% endcomment %}
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
   </article>
 </div>
