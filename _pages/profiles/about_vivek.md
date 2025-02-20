@@ -1,3 +1,4 @@
 ### Vivekanandan Ramalingam (Vivek)
 
-**Role**: Research Scientist
+**Role**: Research Scientist  
+**Department:** Genetics
