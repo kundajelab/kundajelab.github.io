@@ -3,20 +3,53 @@
 
 @string{aps = {American Physical Society,}}
 
-@article{pampari2024chrombpnet,
-  title={ChromBPNet: bias factorized, base-resolution deep learning models of chromatin accessibility reveal cis-regulatory sequence syntax, transcription factor footprints and regulatory variants},
-  author={Pampari, Anusri and Shcherbina, Anna and Kvon, Evgeny Z and Kosicki, Michael and Nair, Surag and Kundu, Soumya and Kathiria, Arwa S and Risca, Viviana I and Kuningas, Kristiina and Alasoo, Kaur and others},
-  journal={bioRxiv},
-  pages={2024--12},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory}
+@article{pampari_chrombpnet:_2025,
+  title = {{ChromBPNet}: bias factorized, base-resolution deep learning models of chromatin accessibility reveal cis-regulatory sequence syntax, transcription factor footprints and regulatory variants},
+  url = {https://www.biorxiv.org/content/10.1101/2024.12.25.630221v2},
+  doi = {10.1101/2024.12.25.630221},
+  abstract = {Despite extensive mapping of cis-regulatory elements (cREs) across cellular contexts with chromatin accessibility assays, the sequence syntax and genetic variants that regulate transcription factor (TF) binding and chromatin accessibility at context-specific cREs remain elusive. We introduce ChromBPNet, a deep learning DNA sequence model of base-resolution accessibility profiles that detects, learns and deconvolves assay-specific enzyme biases from regulatory sequence determinants of accessibility, enabling robust discovery of compact TF motif lexicons, cooperative motif syntax and precision footprints across assays and sequencing depths. Extensive benchmarks show that ChromBPNet, despite its lightweight design, is competitive with much larger contemporary models at predicting variant effects on chromatin accessibility, pioneer TF binding and reporter activity across assays, cell contexts and ancestry, while providing interpretation of disrupted regulatory syntax. ChromBPNet also helps prioritize and interpret regulatory variants that influence complex traits and rare diseases, thereby providing a powerful lens to decode regulatory DNA and genetic variation.},
+  journal = {bioRxiv},
+  author = {Pampari*, Anusri and Shcherbina*, Anna and Kvon, Evgeny Z. and Kosicki, Michael and Nair, Surag and Kundu, Soumya and Kathiria, Arwa S. and Risca, Viviana I. and Kuningas, Kristiina and Alasoo, Kaur and Greenleaf, William James and Pennacchio, Len A. and Kundaje†, Anshul},
+  month = jan,
+  year = {2025},
 }
 
-@inproceedings{shrikumar2017learning,
-  title={Learning important features through propagating activation differences},
-  author={Shrikumar, Avanti and Greenside, Peyton and Kundaje, Anshul},
-  booktitle={International conference on machine learning},
-  pages={3145--3153},
-  year={2017},
-  organization={PMlR}
+@article{shrikumar_learning_2019,
+  title = {Learning {Important} {Features} {Through} {Propagating} {Activation} {Differences}},
+  url = {http://arxiv.org/abs/1704.02685},
+  doi = {10.48550/arXiv.1704.02685},
+  abstract = {The purported "black box" nature of neural networks is a barrier to adoption in applications where interpretability is essential. Here we present DeepLIFT (Deep Learning Important FeaTures), a method for decomposing the output prediction of a neural network on a specific input by backpropagating the contributions of all neurons in the network to every feature of the input. DeepLIFT compares the activation of each neuron to its 'reference activation' and assigns contribution scores according to the difference. By optionally giving separate consideration to positive and negative contributions, DeepLIFT can also reveal dependencies which are missed by other approaches. Scores can be computed efficiently in a single backward pass. We apply DeepLIFT to models trained on MNIST and simulated genomic data, and show significant advantages over gradient-based methods. Video tutorial: http://goo.gl/qKb7pL, ICML slides: bit.ly/deeplifticmlslides, ICML talk: https://vimeo.com/238275076, code: http://goo.gl/RM8jvH.},
+  journal = {arXiv},
+  author = {Shrikumar, Avanti and Greenside, Peyton and Kundaje†, Anshul},
+  month = oct,
+  year = {2019},
+}
+
+@article{shrikumar_technical_2020,
+  title = {Technical {Note} on {Transcription} {Factor} {Motif} {Discovery} from {Importance} {Scores} ({TF}-{MoDISco}) version 0.5.6.5},
+  url = {http://arxiv.org/abs/1811.00416},
+  doi = {10.48550/arXiv.1811.00416},
+  abstract = {TF-MoDISco (Transcription Factor Motif Discovery from Importance Scores) is an algorithm for identifying motifs from basepair-level importance scores computed on genomic sequence data. This technical note focuses on version v0.5.6.5. The implementation is available at https://github.com/kundajelab/tfmodisco/tree/v0.5.6.5},
+  journal = {arXiv},
+  author = {Shrikumar, Avanti and Tian, Katherine and Avsec, Žiga and Shcherbina, Anna and Banerjee, Abhimanyu and Sharmin, Mahfuza and Nair, Surag and Kundaje†, Anshul},
+  month = apr,
+  year = {2020},
+}
+
+@article{the_encode_project_consortium_author_2022,
+	title = {{Expanded} encyclopaedias of {DNA} elements in the human and mouse genomes},
+	url = {https://www.nature.com/articles/s41586-021-04226-3},
+	doi = {10.1038/s41586-021-04226-3},
+	journal = {Nature},
+	author = {{The ENCODE Project Consortium} and others},
+	month = may,
+	year = {2022},
+}
+
+@phdthesis{kundaje_predictive_2008,
+	title = {Predictive models of gene regulation},
+	abstract = {The regulation of gene expression plays a central role in the development and function of a living cell. A complex network of interacting regulatory proteins bind specific sequence elements in the genome to control the amount and timing of gene expression. The abundance of genome-scale datasets from different organisms provides an opportunity to accelerate our understanding of the mechanisms of gene regulation. Developing computational tools to infer gene regulation programs from high-throughput genomic data is one of the central problems in computational biology. In this thesis, we present a new  predictive modeling  framework for studying gene regulation. We formulate the problem of learning regulatory programs as a binary classification task: to accurately predict the condition-specific activation (up-regulation) and repression (down-regulation) of gene expression. The gene expression response is measured by microarray expression data. Genes are represented by various genomic regulatory sequence features. Experimental conditions are represented by the gene expression levels of various regulatory proteins. We use this combination of features to learn a prediction function for the regulatory response of genes under different experimental conditions. The core computational approach is based on  boosting.  Boosting algorithms allow us to learn high-accuracy, large-margin classifiers and avoid overfitting. We describe three applications of our framework to study gene regulation: (1) In the  GeneClass  algorithm, we use a compendium of known transcription factor binding sites and gene expression data to learn a global context-specific regulation program that accurately predicts differential expression. GeneClass learns a prediction function in the form of an alternating decision tree, a margin-based generalization of a decision tree. We introduce a novel robust variant of boosting that improves stability and biological interpretability in the presence of correlated features. We also show how to incorporate genome-wide protein-DNA binding data from ChIP-chip experiments into the framework. (2) In several organisms, the DNA binding sites of many transcription factors are unknown. Hence, automatic discovery of regulatory sequence motifs is required. In the  MEDUSA  algorithm, we integrate raw promoter sequence data and gene expression data to simultaneously discover cis regulatory motifs ab initio and learn predictive regulatory programs. MEDUSA automatically learns probabilistic representations of motifs and their corresponding target genes. We show that we are able to accurately learn the binding sites of most known transcription factors in yeast. (3) We also design new techniques for extracting biologically and statistically significant information from the learned regulatory models. We use a margin-based score to extract global condition-specific regulomes as well as cluster-specific and gene-specific regulation programs. We develop a post-processing framework for interpreting and visualizing biological information encapsulated in our models. We show the utility of our framework in analyzing several interesting biological contexts (environmental stress responses, DNA-damage response and hypoxia-response) in the budding yeast  Saccharomyces cerevisiae.  We also show that our methods can learn regulatory programs and cis regulatory motifs in higher eukaryotes such as worms and humans. Several hypotheses generated by our methods are validated by our collaborators using biochemical experiments. Experimental results demonstrate that our framework is quantitatively and qualitatively predictive. We are able to achieve high prediction accuracy on test data and also generate specific, testable hypotheses.},
+	school = {Columbia University},
+	author = {Kundaje, Anshul},
+	year = {2008},
 }

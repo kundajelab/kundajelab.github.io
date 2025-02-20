@@ -3,11 +3,14 @@ layout: post
 title: TF MoDISCO Algorithm Explanation
 date: 2018-02-24 23:02:47 -0800
 categories: publication
-# tags: xxx
 author: Avanti Shrikumar
-# thumbnail: assets/img/9.jpg
 ---
 
-<center>
-<iframe width="900" height="600" src="https://www.youtube.com/embed/fXPGVJg956E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+    <iframe 
+        src="https://www.youtube.com/embed/fXPGVJg956E"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
+</div>
