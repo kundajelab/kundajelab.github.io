@@ -1,5 +1,5 @@
 ### Kamal Obbad
 
 **Role:** PhD Student  
-**Department:** Biophysics    
+**Department:** Biophysics  
 **Co-Advisor:** Kyle Daniels

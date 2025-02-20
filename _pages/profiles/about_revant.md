@@ -2,4 +2,4 @@
 
 **Role:** Senior Computational Biologist  
 **Department:** Genetics  
-**Co-Advisor:** Jesse Engreitz  
+**Co-Advisor:** Jesse Engreitz

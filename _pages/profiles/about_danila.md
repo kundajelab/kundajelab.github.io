@@ -2,4 +2,4 @@
 
 **Role:** Postdoctoral Fellow  
 **Department:** Genetics  
-**Co-Advisor:** Jesse Engreitz  
+**Co-Advisor:** Jesse Engreitz
