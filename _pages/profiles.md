@@ -62,9 +62,9 @@ profiles:
   - align: left
     image: selin.jpg
     content: profiles/about_selin.md
-  # - align: left
-  #   image: danila.jpg
-  #   content: profiles/about_danila.md
+  - align: left
+    image: danila.jpg
+    content: profiles/about_danila.md
   - align: left
     image: lei.webp
     content: profiles/about_lei.md
