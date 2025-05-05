@@ -254,8 +254,45 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Kundaje, Pampari, Shcherbina, Nair, Kundu, Shrikumar, Greenside, Avsec, Im, Zhao, Zaslavsky]
-  first_name: [Anshul, A., Anusri, A., Anna, A., Surag, S., Soumya, S., Avanti, A., Peyton, P., Žiga, Ž., Chiho, C., Ryan, R., Maxim, M.]
+  last_name:
+    [
+      Kundaje,
+      Pampari,
+      Shcherbina,
+      Nair,
+      Kundu,
+      Shrikumar,
+      Greenside,
+      Avsec,
+      Im,
+      Zhao,
+      Zaslavsky,
+    ]
+  first_name:
+    [
+      Anshul,
+      A.,
+      Anusri,
+      A.,
+      Anna,
+      A.,
+      Surag,
+      S.,
+      Soumya,
+      S.,
+      Avanti,
+      A.,
+      Peyton,
+      P.,
+      Žiga,
+      Ž.,
+      Chiho,
+      C.,
+      Ryan,
+      R.,
+      Maxim,
+      M.,
+    ]
 
   style: apa
   locale: en
