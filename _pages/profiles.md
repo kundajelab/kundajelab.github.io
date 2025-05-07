@@ -75,6 +75,9 @@ profiles:
     image: eran.webp
     content: profiles/about_eran.md
   - align: left
+    image: seungbyn.jpg
+    content: profiles/about_seungbyn.md
+  - align: left
     image: revant.jpeg
     content: profiles/about_revant.md
   - align: left
