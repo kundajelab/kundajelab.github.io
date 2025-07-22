@@ -78,6 +78,9 @@ profiles:
     image: seungbyn.jpg
     content: profiles/about_seungbyn.md
   - align: left
+    image: pau.jpg
+    content: profiles/about_pau.md
+  - align: left
     image: revant.jpeg
     content: profiles/about_revant.md
   - align: left
