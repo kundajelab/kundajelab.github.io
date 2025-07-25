@@ -24,6 +24,9 @@ profiles:
     image: jake.jpeg
     content: profiles/about_jake.md
   - align: left
+    image: alejandro.jpg
+    content: profiles/about_alejandro.md
+  - align: left
     image: kelly.webp
     content: profiles/about_kelly.md
   - align: left
