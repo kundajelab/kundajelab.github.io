@@ -2,4 +2,4 @@
 
 **Role:** Computational Biologist & Project Manager  
 **Department:** Genetics  
-**Co-Advisor:** [Jesse Engreitz](https://www.engreitzlab.org/) 
+**Co-Advisor:** [Jesse Engreitz](https://www.engreitzlab.org/)
