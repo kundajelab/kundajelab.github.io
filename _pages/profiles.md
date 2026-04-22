@@ -105,6 +105,9 @@ profiles:
     image: ivy.webp
     content: profiles/about_ivy.md
   - align: left
+    image: amanda.jpeg
+    content: profiles/about_amanda.md
+  - align: left
     image: lily.webp
     content: profiles/about_lily.md
 
