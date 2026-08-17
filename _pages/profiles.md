@@ -77,7 +77,7 @@ alumni:
     website: https://www.linkedin.com/in/amanspatel/
   - name: Kelly Cochran
     role_in_lab: PhD student, Computer Science
-    first_position: Postdoc, RNA Therapeutics Institute, UMass Chan Medical School
+    first_position: Postdoctoral fellow, RNA Therapeutics Institute, UMass Chan Medical School
     website: https://kellycochran.github.io/
   - name: Soumya Kundu
     role_in_lab: PhD student, Computer Science
@@ -121,8 +121,12 @@ alumni:
     role_in_lab: Postdoctoral fellow, Genetics
     # first_position: ?
     website: https://selinjessa.com/
+  - name: Jacob Schreiber
+    role_in_lab: Postdoctoral fellow, Genetics
+    first_position: Assistant Professor in Genomics and Computational Biology, UMass Chan Medical School
+    website: https://jmschrei.github.io/
   - name: Eran Kotler
-    role_in_lab: Postdoctoral scholar
+    role_in_lab: Postdoctoral fellow
     first_position: Co-Founder and CEO @ Cellyrix Therapeutics
     website: https://www.linkedin.com/in/eran-kotler-6347b44/
   # >>> others <<<
@@ -135,7 +139,7 @@ alumni:
     first_position: ML Scientist @ Relation
     website: https://www.linkedin.com/in/revant-gupta/
   - name: Basak Eraslan
-    role_in_lab: Visiting postdoctoral scholar fellow, Genetics
+    role_in_lab: Visiting postdoctoral fellow, Genetics
     first_position: Senior Scientist in ML and Bioinformatics @ Arc Institute
     website: https://www.linkedin.com/in/basak-eraslan-474458210/
   - name: Eila Arich-Landkof
