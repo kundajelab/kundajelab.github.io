@@ -111,7 +111,7 @@ alumni:
   - name: Avanti Shrikumar
     role_in_lab: PhD student, Computer Science
     # first_position: ?
-    website: https://stanford.edu/~avanti/
+    website: https://www.linkedin.com/in/avanti-shrikumar-85841a39/
   - name: Peyton Greenside
     role_in_lab: PhD student, Biomedical Informatics
     # first_position: ?

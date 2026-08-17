@@ -2,7 +2,7 @@ The theme is based off of [al-folio](https://github.com/alshedivat/al-folio), so
 
 # Previewing the site locally
 
-I recommend setting this up as it is very helpful if you want to quicklu test out your local changes before pushing them to the live site. You can either use Docker containers as outlined [here](https://github.com/alshedivat/al-folio/blob/main/INSTALL.md) or install Ruby and Jekyll locally. I describe the steps to do the latter below.
+I recommend setting this up as it is very helpful if you want to quickly test out your local changes before pushing them to the live site. You can either use Docker containers as outlined [here](https://github.com/alshedivat/al-folio/blob/main/docs/INSTALL.md) or install Ruby and Jekyll locally. I describe the steps to do the latter below.
 
 1. Install **rbenv** via brew, as described [here](https://github.com/rbenv/rbenv).
 2. Install the latest ruby version as shown on the official Ruby website.
