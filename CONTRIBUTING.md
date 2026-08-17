@@ -22,7 +22,7 @@ I recommend setting this up as it is very helpful if you want to quicklu test ou
 
 1. Make sure you have the latest version of the repo.
 2. Create a new branch with `git checkout -b <your branch name>`.
-3. Make your changes locally and preferably preview them locally (see below).
+3. Make your changes locally and preferably preview them locally (see above).
 4. Commit changes and push to **your branch**.
 5. Open a pull request to the main branch of the repo.
 6. **Be sure that all PR checks pass**. Once that is done, merge the PR.

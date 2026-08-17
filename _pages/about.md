@@ -18,6 +18,7 @@ latest_posts:
 ---
 
 <!-- Lab photo shown at the top of the homepage. -->
+
 {% include figure.liquid loading="eager" path="assets/img/lab_photo_august_2026.png" class="img-fluid rounded" alt="Placeholder alt text" width="3000" height="2054" %}
 
 We are **computational biologists** at [Stanford University](https://www.stanford.edu/) 🌲
