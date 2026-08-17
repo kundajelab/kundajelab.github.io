@@ -15,9 +15,6 @@ profiles:
     image: chiho.jpeg
     content: profiles/about_chiho.md
   - align: left
-    image: aman.webp
-    content: profiles/about_aman.md
-  - align: left
     image: valeh.jpeg
     content: profiles/about_valeh.md
   - align: left
@@ -26,9 +23,6 @@ profiles:
   - align: left
     image: alejandro.jpg
     content: profiles/about_alejandro.md
-  - align: left
-    image: kelly.webp
-    content: profiles/about_kelly.md
   - align: left
     image: arpita.webp
     content: profiles/about_arpita.md
@@ -51,32 +45,11 @@ profiles:
     image: shouvik.webp
     content: profiles/about_shouvik.md
   - align: left
-    image: soumya.webp
-    content: profiles/about_soumya.md
-  - align: left
-    image: austin.jpeg
-    content: profiles/about_austin.md
-  - align: left
-    image: anusri.jpeg
-    content: profiles/about_anusri.md
-  - align: left
-    image: akshat.jpeg
-    content: profiles/about_akshat.md
-  - align: left
-    image: selin.jpg
-    content: profiles/about_selin.md
-  - align: left
     image: danila.jpg
     content: profiles/about_danila.md
   - align: left
     image: lei.webp
     content: profiles/about_lei.md
-  - align: left
-    image: basak.jpeg
-    content: profiles/about_basak.md
-  - align: left
-    image: eran.webp
-    content: profiles/about_eran.md
   - align: left
     image: seungbyn.jpg
     content: profiles/about_seungbyn.md
@@ -84,26 +57,11 @@ profiles:
     image: pau.jpg
     content: profiles/about_pau.md
   - align: left
-    image: revant.jpeg
-    content: profiles/about_revant.md
-  - align: left
     image: vivek.webp
     content: profiles/about_vivek.md
   - align: left
-    image: georgi.jpeg
-    content: profiles/about_georgi.md
-  - align: left
-    image: ryan.jpg
-    content: profiles/about_ryan.md
-  - align: left
     image: vivian.webp
     content: profiles/about_vivian.md
-  - align: left
-    image: eila.webp
-    content: profiles/about_eila.md
-  - align: left
-    image: ivy.webp
-    content: profiles/about_ivy.md
   - align: left
     image: amanda.jpeg
     content: profiles/about_amanda.md
@@ -112,21 +70,84 @@ profiles:
     content: profiles/about_lily.md
 
 alumni:
+  # >>> PhD students <<<
+  - name: Aman Patel
+    role_in_lab: PhD student, Computer Science
+    first_position: ML Scientist @ Genentech
+    website: https://www.linkedin.com/in/amanspatel/
+  - name: Kelly Cochran
+    role_in_lab: PhD student, Computer Science
+    first_position: Postdoc, RNA Therapeutics Institute, UMass Chan Medical School
+    website: https://kellycochran.github.io/
+  - name: Soumya Kundu
+    role_in_lab: PhD student, Computer Science
+    first_position: ML Scientist @ Relation
+    website: https://www.linkedin.com/in/soumya-kundu/
+  - name: Austin Wang
+    role_in_lab: PhD student, Computer Science
+    first_position: Research Scientist @ EvolutionaryScale (now Biohub)
+    website: https://www.austintwang.com/
   - name: Surag Nair
     role_in_lab: PhD student, Computer Science
     # time_in_lab: 2018-2020
-    # first_position: Postdoctoral Researcher
+    first_position: ML Scientist @ Genentech
     website: https://suragnair.github.io/
+  - name: Anusri Pampari
+    role_in_lab: PhD student, Computer Science
+    first_position: Applied Scientist II @ Amazon
+    website: https://www.linkedin.com/in/anusri-pampari-594bb5126/
+  - name: Akshat Nigam
+    role_in_lab: PhD student, Computer Science
+    first_position: Senior ML Scientist @ Kimia Therapeutics
+    website: https://www.linkedin.com/in/akshat-nigam-0b2566255/
   - name: Maxim Zaslavsky
     role_in_lab: PhD student, Computer Science
+    first_position: Co-Founder and CEO @ Immunera
     website: https://www.maximzaslavsky.com/
   - name: Anna Shcherbina
     role_in_lab: PhD student, Biomedical Informatics
+    first_position: ML Engineer @ insitro
     website: https://www.linkedin.com/in/anna-shcherbina-6502bb1b/
   - name: Avanti Shrikumar
     role_in_lab: PhD student, Computer Science
+    # first_position: ?
     website: https://stanford.edu/~avanti/
   - name: Peyton Greenside
     role_in_lab: PhD student, Biomedical Informatics
+    # first_position: ?
     website: https://www.linkedin.com/in/peyton-greenside-298a5881/
+  # >>> postdocs <<<
+  - name: Selin Jessa
+    role_in_lab: Postdoctoral fellow, Genetics
+    # first_position: ?
+    website: https://selinjessa.com/
+  - name: Eran Kotler
+    role_in_lab: Postdoctoral scholar
+    first_position: Co-Founder and CEO @ Cellyrix Therapeutics
+    website: https://www.linkedin.com/in/eran-kotler-6347b44/
+  # >>> others <<<
+  - name: Gerogi Marinov
+    role_in_lab: Research scientist, Genetics
+    # first_position: ?
+    website: https://www.linkedin.com/in/georgi-marinov-8994a220/
+  - name: Revant Gupta
+    role_in_lab: Senior computational biologist, Genetics
+    first_position: ML Scientist @ Relation
+    website: https://www.linkedin.com/in/revant-gupta/
+  - name: Basak Eraslan
+    role_in_lab: Visiting postdoctoral scholar fellow, Genetics
+    first_position: Senior Scientist in ML and Bioinformatics @ Arc Institute
+    website: https://www.linkedin.com/in/basak-eraslan-474458210/
+  - name: Eila Arich-Landkof
+    role_in_lab: Senior staff scientist
+    # first_position: ?
+    website: https://www.linkedin.com/in/eilalandkof/
+  - name: Ivy Evergreen
+    role_in_lab: Staff scientist
+    # first_position: ?
+    website: https://www.linkedin.com/in/ivyevergreen/
+  - name: Ryan Zhao
+    role_in_lab: Master's student, Computer Science
+    first_position: ML Research Engineer @ Isomorphic Labs
+    website: hhttps://www.linkedin.com/in/ryan-zhao-ab4752121/
 ---

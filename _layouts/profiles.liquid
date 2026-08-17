@@ -49,6 +49,9 @@ layout: page
                 <strong>{{ alum.name }}</strong><br>
                 <b>👨‍💻 Role in lab</b>: {{ alum.role_in_lab -}}
                 <br>
+                {% if alum.first_position %}
+                  <b>🚀 First position</b>: {{ alum.first_position }}<br>
+                {% endif %}
                 <b>🌐 Website</b>: <a href="{{ alum.website }}" target="_blank">link</a><br>
               </td>
               {% comment %}
