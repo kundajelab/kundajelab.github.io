@@ -1,1 +1,1 @@
-👉 For contributing instructions see CONTRIBUTING.md.
+👉 For contributing instructions see `CONTRIBUTING.md`.
