@@ -57,6 +57,9 @@ profiles:
     image: pau.jpg
     content: profiles/about_pau.md
   - align: left
+    image: adam.jpeg
+    content: profiles/about_adam.md
+  - align: left
     image: vivek.webp
     content: profiles/about_vivek.md
   - align: left
