@@ -1,4 +1,4 @@
-### Adam He
+### Isaac Vock
 
 **Role:** Postdoctoral Scholar  
 **Department:** Genetics  
