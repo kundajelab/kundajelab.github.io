@@ -2,4 +2,5 @@
 
 **Role:** PhD Student  
 **Department:** Chemical Engineering  
-**Research Interests:** DNA binding proteins, Protein-protein interactions
+**Co-Advisor:** [Brian Hie](https://profiles.stanford.edu/brian-hie)
+**Website:** [Link](https://chang-m-yun.github.io/)
