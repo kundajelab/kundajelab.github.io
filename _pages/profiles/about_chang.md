@@ -2,5 +2,5 @@
 
 **Role:** PhD Student  
 **Department:** Chemical Engineering  
-**Co-Advisor:** [Brian Hie](https://profiles.stanford.edu/brian-hie)
-**Website:** [Link](https://chang-m-yun.github.io/)
+**Co-Advisor:** [Brian Hie](https://profiles.stanford.edu/brian-hie)  
+**Website:** [Link](https://chang-m-yun.github.io/)  
