@@ -1,4 +1,4 @@
-### Manasvi Agarwal
+### Manasvi Agarwal  
 
 **Role:** Research Data Analyst  
 **Department:** Genetics  
