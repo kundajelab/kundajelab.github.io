@@ -78,7 +78,6 @@ profiles:
     image: manasvi.jpg
     content: profiles/about_manasvi.md
 
-
 alumni:
   # >>> PhD students <<<
   - name: Aman Patel
