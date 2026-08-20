@@ -74,6 +74,9 @@ profiles:
   - align: left
     image: lily.webp
     content: profiles/about_lily.md
+  - align: left
+    image: manasvi.jpg
+    content: profiles/about_manasvi.md
 
 alumni:
   # >>> PhD students <<<
