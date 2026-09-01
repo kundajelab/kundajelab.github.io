@@ -36,6 +36,9 @@ profiles:
     image: riya.webp
     content: profiles/about_riya.md
   - align: left
+    image: nathaniel.png
+    content: profiles/about_nathaniel.md
+  - align: left
     image: ziwei.webp
     content: profiles/about_ziwei.md
   - align: left
