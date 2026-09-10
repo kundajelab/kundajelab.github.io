@@ -18,6 +18,9 @@ profiles:
     image: valeh.jpeg
     content: profiles/about_valeh.md
   - align: left
+    image: anvita_image.png
+    content: profiles/about_anvita.md
+  - align: left
     image: jake.jpeg
     content: profiles/about_jake.md
   - align: left
