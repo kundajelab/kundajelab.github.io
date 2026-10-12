@@ -2,7 +2,7 @@ The theme is based off of [al-folio](https://github.com/alshedivat/al-folio), so
 
 # Previewing the site locally
 
-I recommend setting this up as it is very helpful if you want to quicklu test out your local changes before pushing them to the live site. You can either use Docker containers as outlined [here](https://github.com/alshedivat/al-folio/blob/main/INSTALL.md) or install Ruby and Jekyll locally. I describe the steps to do the latter below.
+I recommend setting this up as it is very helpful if you want to quickly test out your local changes before pushing them to the live site. You can either use Docker containers as outlined [here](https://github.com/alshedivat/al-folio/blob/main/docs/INSTALL.md) or install Ruby and Jekyll locally. I describe the steps to do the latter below.
 
 1. Install **rbenv** via brew, as described [here](https://github.com/rbenv/rbenv).
 2. Install the latest ruby version as shown on the official Ruby website.
@@ -22,7 +22,7 @@ I recommend setting this up as it is very helpful if you want to quicklu test ou
 
 1. Make sure you have the latest version of the repo.
 2. Create a new branch with `git checkout -b <your branch name>`.
-3. Make your changes locally and preferably preview them locally (see below).
+3. Make your changes locally and preferably preview them locally (see above).
 4. Commit changes and push to **your branch**.
 5. Open a pull request to the main branch of the repo.
 6. **Be sure that all PR checks pass**. Once that is done, merge the PR.
