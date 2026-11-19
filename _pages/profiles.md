@@ -83,6 +83,9 @@ profiles:
   - align: left
     image: manasvi.jpg
     content: profiles/about_manasvi.md
+  - align: left
+    image: jonathan.jpeg
+    content: profiles/about_jonathan.md
 
 alumni:
   # >>> PhD students <<<
